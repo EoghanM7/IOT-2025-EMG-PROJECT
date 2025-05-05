@@ -30,3 +30,5 @@ The project has shifted its focus from a weather station to an IoT motion sensor
 * Data is being ingested into Azure Data Explorer.
 * A time series chart has been created in Azure Data Explorer to visualize the motion data.
 
+### Project Video Showcase!!
+https://streamable.com/ro4dr4
